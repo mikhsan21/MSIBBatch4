@@ -1,0 +1,4 @@
+File Ini Digunakan Untuk Merge
+Ketika Perintah Merge Di Lokal Urutannya Adalah
+Git Merge nama_branch
+Git Push
