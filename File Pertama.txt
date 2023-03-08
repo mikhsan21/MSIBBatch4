@@ -1,10 +1,12 @@
 Rincian Materi Kampus Merdeka Batch 4
-- HTML dan CSS
+- Web Design
 - Javascript
 - Github
 - PHP
 - My SQL
 - Laravel
+- Rest API
+- Final Project
 
 Menambahkan File Kedalam Github Disebut Dengan Adding (Git Add)
 Menandai File Yang Disebut Commit (Git Commit)
