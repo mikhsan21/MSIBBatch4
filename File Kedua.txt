@@ -1,0 +1,4 @@
+Ini Adalah File Cabang (Branch)
+Perintah Membuat Branch Ketika Di Lokal Adalah Git Branch nama_branch
+Setiap File Yang Ada Di Branch Tidak Terlihat Di Master
+Kecuali Sudah Dilakukan Merge Atau Penggabungan Perintahnya Adalah Git Merge
