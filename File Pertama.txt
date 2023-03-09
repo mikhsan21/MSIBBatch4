@@ -1,0 +1,15 @@
+Rincian Materi Kampus Merdeka Batch 4
+- Web Design
+- Javascript
+- Github
+- PHP
+- My SQL
+- Laravel
+- Rest API
+- Final Project
+- Tambah
+
+Menambahkan File Kedalam Github Disebut Dengan Adding (Git Add)
+Menandai File Yang Disebut Commit (Git Commit)
+Setelah Itu Upload File Yang Disebut Push (Git Push)
+Saya Menambahkan Baris Baru
